@@ -3,7 +3,7 @@
 👀 **Interested in:** Software Testing, QA Automation, UX/UI Design, and continuous technology learning.<br>
 🌱 **Currently Learning:** Automation testing frameworks (Playwright), C#, and advanced QA methodologies.<br>
 💞️ **Open to Collaboration:** Projects focused on test automation, enhancing QA processes, and creating intuitive user experiences.<br>
-📫 **How to Reach Me:** [LinkedIn]<br>
+📫 **How to Reach Me: www.linkedin.com/in/sofía-cardona-06b99a322<br>
 ⚡ **Fun Fact:** Transitioned from architecture and design into software testing, merging creativity with technical precision.
 
 # 💻 Tech Stack:
